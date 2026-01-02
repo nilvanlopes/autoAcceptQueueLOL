@@ -16,7 +16,7 @@ pip install uv
 ```
 
 ## Quick start
-- Run the notebook cell that calls `main()`.
+- Run all cells.
 
 ## How it works
 - The script uses image recognition to find `popup.png` on screen and clicks its location when detected.
