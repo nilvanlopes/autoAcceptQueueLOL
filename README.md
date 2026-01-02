@@ -1,19 +1,20 @@
 # Auto Accept Queue for League of Legends
 
+THIS PROJECT IS FOR EDUCATIONAL PROPOUSES ONLY.
+
+Recently the [Mimic](https://www.overwolf.com/app/mao-tou_projects_ltd-mimic) remove the feature of auto accept queue from the app.
+
 Small script/notebook that monitors the screen and automatically clicks the League of Legends "Accept" button when a match is found.
 
 
 ## Installation
 This project uses `uv` for dependency management. To install the required packages, run the following command in the project root:
 ```bash
-uv pip sync
+uv sync
 ```
 This will install all the dependencies specified in the `pyproject.toml` file.
 
-If you don't have `uv` installed, you can install it with pip:
-```bash
-pip install uv
-```
+If you don't have `uv` installed, you can install it [here](https://docs.astral.sh/uv/)
 
 ## Quick start
 - Run all cells.
