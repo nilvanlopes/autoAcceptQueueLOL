@@ -32,6 +32,7 @@ dependencies = [
     "pyautogui==0.9.54",
     "pygetwindow==0.0.9",
     "pygments==2.19.2",
+    "pyinstaller>=6.17.0",
     "pymsgbox==2.0.1",
     "pyperclip==1.11.0",
     "pyrect==0.2.0",

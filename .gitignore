@@ -3,3 +3,10 @@
 
 # Ignore VSCode configuration
 .vscode/
+
+#Ignore build and dist folders
+build/
+dist/
+
+#Ignore the ignore
+.gitignore
