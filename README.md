@@ -1,6 +1,6 @@
 # Auto Accept Queue for League of Legends
 
-THIS PROJECT IS FOR EDUCATIONAL PROPOUSES ONLY.
+THIS PROJECT IS FOR EDUCATIONAL PURPOSES ONLY.
 
 Recently the [Mimic](https://www.overwolf.com/app/mao-tou_projects_ltd-mimic) remove the feature of auto accept queue from the app.
 
